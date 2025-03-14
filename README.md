@@ -1,1 +1,2 @@
 # My-Portfolio
+This is my personal portfolio showcasing my skills, projects, and achievements in web development. The portfolio includes an interactive chatbot feature that allows visitors to ask questions and engage with the content in a more dynamic and personalized way. Built using modern web technologies, this project highlights my ability to integrate user-friendly interfaces with AI-driven functionality, providing an engaging experience for potential employers or collaborators.
